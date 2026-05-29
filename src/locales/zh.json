@@ -1,0 +1,123 @@
+{
+  "brand": "Jokky White Editing",
+  "shortBrand": "JWE",
+  "slogan": "Create Without Limits",
+  "nav": {
+    "home": "首页",
+    "dashboard": "仪表盘",
+    "editor": "编辑器",
+    "pricing": "定价",
+    "projects": "项目",
+    "settings": "设置",
+    "login": "登录"
+  },
+  "landing": {
+    "headline": "几秒钟创建电影级视频",
+    "subtitle": "AI 驱动的浏览器编辑，提供高级流畅体验。",
+    "start": "开始编辑",
+    "demo": "观看演示",
+    "features": "功能亮点",
+    "testimonial": "为创意工作室和独立影像创作者所信赖。",
+    "pricingIntro": "为有远见的创作者打造的简单套餐。",
+    "aiTools": "AI 工具",
+    "heroBadge": "Premium editing — AI ready",
+    "aiToolsTitle": "AI tools for every stage of your edit",
+    "aiToolsSubtitle": "Build fast and refined videos with scene-aware automation, audio polishing, and cinematic finishing touches.",
+    "showcaseProduct": "JWE TimeCraft",
+    "showcaseCaption": "Cinematic preview + smart trim",
+    "showcaseTitle": "Premium motion showcase",
+    "showcaseCopy": "A future-ready editing experience with glassmorphism panels, cinematic micro-interactions, and polished UI motion.",
+    "workflowTitle": "Everything you need for cinematic publishing",
+    "workflowCopy": "From creative motion edits to export-ready video, Jokky White Editing brings premium tooling to the browser.",
+    "trustedTitle": "Trusted workflow",
+    "trustedCopy": "Fast clip trimming, smooth repositioning, and refined storyboarding.",
+    "cloudTitle": "Cloud-ready architecture",
+    "cloudCopy": "Save progress locally, access advanced cloud sync ideas for future releases."
+  },
+  "editor": {
+    "upload": "上传视频",
+    "dragDrop": "拖拽上传",
+    "trim": "剪辑",
+    "split": "分割",
+    "duplicate": "复制",
+    "transitions": "转场",
+    "filters": "滤镜",
+    "text": "文字",
+    "audio": "音频",
+    "export": "导出",
+    "timeline": "时间线",
+    "settings": "设置",
+    "preview": "预览",
+    "media": "媒体",
+    "clips": "片段",
+    "duration": "时长",
+    "quality": "质量",
+    "autoSave": "自动保存已开启"
+  },
+  "dashboard": {
+    "recent": "最近项目",
+    "create": "创建新项目",
+    "tools": "AI 工具",
+    "history": "导出历史",
+    "storage": "存储使用",
+    "workspaceTitle": "Your Jokky White Editing workspace",
+    "workspaceCopy": "Launch your next cinematic edit from a dashboard that feels sleek, calm, and built for creative velocity.",
+    "aiWorkflow": "AI workflow center",
+    "aiWorkflowCopy": "Modern AI support for premium storytelling.",
+    "exportHistoryTitle": "Export history"
+  },
+  "pricing": {
+    "starter": "Starter",
+    "pro": "Pro",
+    "agency": "Agency",
+    "monthly": "每月",
+    "pricingIntro": "Simple plans for ambitious creators.",
+    "choosePlan": "Choose {{tier}}"
+  },
+  "auth": {
+    "signin": "登录",
+    "signup": "注册",
+    "forgot": "忘记密码？",
+    "social": "继续使用",
+    "email": "邮箱地址",
+    "password": "密码",
+    "createAccountCopy": "Create your Jokky White Editing account to save projects and access AI tools.",
+    "signinCopy": "Sign in to continue editing stunning cinematic videos in the browser.",
+    "continueGoogle": "Continue with Google",
+    "continueApple": "Continue with Apple",
+    "continueMicrosoft": "Continue with Microsoft"
+  },
+  "settings": {
+    "title": "工作区设置",
+    "language": "语言",
+    "theme": "主题",
+    "notifications": "通知",
+    "languageChanged": "语言已更改为 {{language}}"
+  },
+  "projects": {
+    "saved": "已保存项目",
+    "empty": "尚未保存任何项目。",
+    "continue": "继续编辑",
+    "description": "Continue where you left off and keep every cinematic cut polished for future exports."
+  },
+  "export": {
+    "title": "导出你的作品",
+    "quality": "质量",
+    "format": "格式",
+    "exportNow": "导出 MP4",
+    "status": "渲染状态",
+    "description": "Select export quality and preview your final render settings before download.",
+    "statusDescription": "Your video will export to a polished MP4 preview with premium color profiles and motion-safe playback.",
+    "optimal": "Optimal"
+  },
+  "footer": {
+    "description": "浏览器中的电影级编辑工具。",
+    "copyright": "© 2026 Jokky White Editing。版权所有。"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "headline": "404",
+    "description": "The cinematic canvas you requested does not exist. Navigate back to the editor and continue creating.",
+    "back": "Back to home"
+  }
+}

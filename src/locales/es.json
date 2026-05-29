@@ -1,0 +1,123 @@
+{
+  "brand": "Jokky White Editing",
+  "shortBrand": "JWE",
+  "slogan": "Create Without Limits",
+  "nav": {
+    "home": "Inicio",
+    "dashboard": "Panel",
+    "editor": "Editor",
+    "pricing": "Precios",
+    "projects": "Proyectos",
+    "settings": "Ajustes",
+    "login": "Iniciar sesión"
+  },
+  "landing": {
+    "headline": "Crea videos cinematográficos en segundos",
+    "subtitle": "Edición en el navegador impulsada por IA con estilo premium.",
+    "start": "Comenzar",
+    "demo": "Ver demo",
+    "features": "Características",
+    "testimonial": "Preferido por estudios creativos y cineastas independientes.",
+    "pricingIntro": "Planes claros para creadores ambiciosos.",
+    "aiTools": "Herramientas IA",
+    "heroBadge": "Premium editing — AI ready",
+    "aiToolsTitle": "AI tools for every stage of your edit",
+    "aiToolsSubtitle": "Build fast and refined videos with scene-aware automation, audio polishing, and cinematic finishing touches.",
+    "showcaseProduct": "JWE TimeCraft",
+    "showcaseCaption": "Cinematic preview + smart trim",
+    "showcaseTitle": "Premium motion showcase",
+    "showcaseCopy": "A future-ready editing experience with glassmorphism panels, cinematic micro-interactions, and polished UI motion.",
+    "workflowTitle": "Everything you need for cinematic publishing",
+    "workflowCopy": "From creative motion edits to export-ready video, Jokky White Editing brings premium tooling to the browser.",
+    "trustedTitle": "Trusted workflow",
+    "trustedCopy": "Fast clip trimming, smooth repositioning, and refined storyboarding.",
+    "cloudTitle": "Cloud-ready architecture",
+    "cloudCopy": "Save progress locally, access advanced cloud sync ideas for future releases."
+  },
+  "editor": {
+    "upload": "Subir video",
+    "dragDrop": "Arrastra y suelta para subir",
+    "trim": "Recortar",
+    "split": "Dividir",
+    "duplicate": "Duplicar",
+    "transitions": "Transiciones",
+    "filters": "Filtros",
+    "text": "Texto",
+    "audio": "Audio",
+    "export": "Exportar",
+    "timeline": "Línea de tiempo",
+    "settings": "Ajustes",
+    "preview": "Vista previa",
+    "media": "Medios",
+    "clips": "Clips",
+    "duration": "Duración",
+    "quality": "Calidad",
+    "autoSave": "Guardado automático activado"
+  },
+  "dashboard": {
+    "recent": "Proyectos recientes",
+    "create": "Crear proyecto",
+    "tools": "Herramientas IA",
+    "history": "Historial de exportación",
+    "storage": "Uso de almacenamiento",
+    "workspaceTitle": "Your Jokky White Editing workspace",
+    "workspaceCopy": "Launch your next cinematic edit from a dashboard that feels sleek, calm, and built for creative velocity.",
+    "aiWorkflow": "AI workflow center",
+    "aiWorkflowCopy": "Modern AI support for premium storytelling.",
+    "exportHistoryTitle": "Export history"
+  },
+  "pricing": {
+    "starter": "Starter",
+    "pro": "Pro",
+    "agency": "Agencia",
+    "monthly": "por mes",
+    "pricingIntro": "Simple plans for ambitious creators.",
+    "choosePlan": "Choose {{tier}}"
+  },
+  "auth": {
+    "signin": "Iniciar sesión",
+    "signup": "Registrarse",
+    "forgot": "¿Olvidaste tu contraseña?",
+    "social": "Continuar con",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "createAccountCopy": "Create your Jokky White Editing account to save projects and access AI tools.",
+    "signinCopy": "Sign in to continue editing stunning cinematic videos in the browser.",
+    "continueGoogle": "Continue with Google",
+    "continueApple": "Continue with Apple",
+    "continueMicrosoft": "Continue with Microsoft"
+  },
+  "settings": {
+    "title": "Configuración del espacio",
+    "language": "Idioma",
+    "theme": "Tema",
+    "notifications": "Notificaciones",
+    "languageChanged": "Idioma cambiado a {{language}}"
+  },
+  "projects": {
+    "saved": "Proyectos guardados",
+    "empty": "Aún no hay proyectos guardados.",
+    "continue": "Continuar editando",
+    "description": "Continue where you left off and keep every cinematic cut polished for future exports."
+  },
+  "export": {
+    "title": "Exporta tu obra maestra",
+    "quality": "Calidad",
+    "format": "Formato",
+    "exportNow": "Exportar MP4",
+    "status": "Estado del render",
+    "description": "Select export quality and preview your final render settings before download.",
+    "statusDescription": "Your video will export to a polished MP4 preview with premium color profiles and motion-safe playback.",
+    "optimal": "Optimal"
+  },
+  "footer": {
+    "description": "Herramientas de edición de nivel cinematográfico en el navegador.",
+    "copyright": "© 2026 Jokky White Editing. Todos los derechos reservados."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "headline": "404",
+    "description": "The cinematic canvas you requested does not exist. Navigate back to the editor and continue creating.",
+    "back": "Back to home"
+  }
+}
