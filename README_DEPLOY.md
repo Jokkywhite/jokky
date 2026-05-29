@@ -30,6 +30,12 @@ Vercel
 2. Use `npm run build` as the build command and `dist` as the output directory.
 3. Add environment variables in Vercel's dashboard as needed.
 
+Custom domain on GitHub Pages
+
+- A `public/CNAME` file has been added with `jokkywhiteediting.com`.
+- When the site is deployed, GitHub Pages will publish that domain automatically.
+- Make sure your DNS provider points `jokkywhiteediting.com` to GitHub Pages.
+
 Notes
 
 - The app expects client-side routing; Netlify/Vercel configs above support SPA fallback to `index.html`.
