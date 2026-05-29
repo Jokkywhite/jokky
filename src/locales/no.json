@@ -1,0 +1,123 @@
+{
+  "brand": "Jokky White Editing",
+  "shortBrand": "JWE",
+  "slogan": "Create Without Limits",
+  "nav": {
+    "home": "Hjem",
+    "dashboard": "Oversikt",
+    "editor": "Editor",
+    "pricing": "Priser",
+    "projects": "Prosjekter",
+    "settings": "Innstillinger",
+    "login": "Logg inn"
+  },
+  "landing": {
+    "headline": "Lag kinovideoer på sekunder",
+    "subtitle": "AI-drevet nettleserredigering med premium bevegelsesverktøy.",
+    "start": "Start redigering",
+    "demo": "Se demo",
+    "features": "Funksjoner",
+    "testimonial": "Foretrukket av kreative studioer og filmskapere.",
+    "pricingIntro": "Enkle planer for ambisiøse skapere.",
+    "aiTools": "AI-verktøy",
+    "heroBadge": "Premium editing — AI ready",
+    "aiToolsTitle": "AI tools for every stage of your edit",
+    "aiToolsSubtitle": "Build fast and refined videos with scene-aware automation, audio polishing, and cinematic finishing touches.",
+    "showcaseProduct": "JWE TimeCraft",
+    "showcaseCaption": "Cinematic preview + smart trim",
+    "showcaseTitle": "Premium motion showcase",
+    "showcaseCopy": "A future-ready editing experience with glassmorphism panels, cinematic micro-interactions, and polished UI motion.",
+    "workflowTitle": "Everything you need for cinematic publishing",
+    "workflowCopy": "From creative motion edits to export-ready video, Jokky White Editing brings premium tooling to the browser.",
+    "trustedTitle": "Trusted workflow",
+    "trustedCopy": "Fast clip trimming, smooth repositioning, and refined storyboarding.",
+    "cloudTitle": "Cloud-ready architecture",
+    "cloudCopy": "Save progress locally, access advanced cloud sync ideas for future releases."
+  },
+  "editor": {
+    "upload": "Last opp video",
+    "dragDrop": "Dra og slipp for å laste opp",
+    "trim": "Trim",
+    "split": "Del",
+    "duplicate": "Dupliser",
+    "transitions": "Overganger",
+    "filters": "Filtre",
+    "text": "Tekst",
+    "audio": "Lyd",
+    "export": "Eksporter",
+    "timeline": "Tidslinje",
+    "settings": "Innstillinger",
+    "preview": "Forhåndsvisning",
+    "media": "Media",
+    "clips": "Klipp",
+    "duration": "Varighet",
+    "quality": "Kvalitet",
+    "autoSave": "Autosaving aktivert"
+  },
+  "dashboard": {
+    "recent": "Siste prosjekter",
+    "create": "Opprett nytt prosjekt",
+    "tools": "AI-verktøy",
+    "history": "Eksporthistorikk",
+    "storage": "Lagringsbruk",
+    "workspaceTitle": "Your Jokky White Editing workspace",
+    "workspaceCopy": "Launch your next cinematic edit from a dashboard that feels sleek, calm, and built for creative velocity.",
+    "aiWorkflow": "AI workflow center",
+    "aiWorkflowCopy": "Modern AI support for premium storytelling.",
+    "exportHistoryTitle": "Export history"
+  },
+  "pricing": {
+    "starter": "Starter",
+    "pro": "Pro",
+    "agency": "Byrå",
+    "monthly": "per måned",
+    "pricingIntro": "Simple plans for ambitious creators.",
+    "choosePlan": "Choose {{tier}}"
+  },
+  "auth": {
+    "signin": "Logg inn",
+    "signup": "Registrer deg",
+    "forgot": "Glemt passord?",
+    "social": "Fortsett med",
+    "email": "E-postadresse",
+    "password": "Passord",
+    "createAccountCopy": "Create your Jokky White Editing account to save projects and access AI tools.",
+    "signinCopy": "Sign in to continue editing stunning cinematic videos in the browser.",
+    "continueGoogle": "Continue with Google",
+    "continueApple": "Continue with Apple",
+    "continueMicrosoft": "Continue with Microsoft"
+  },
+  "settings": {
+    "title": "Arbeidsområde",
+    "language": "Språk",
+    "theme": "Tema",
+    "notifications": "Varsler",
+    "languageChanged": "Språket er endret til {{language}}"
+  },
+  "projects": {
+    "saved": "Lagrede prosjekter",
+    "empty": "Ingen lagrede prosjekter ennå.",
+    "continue": "Fortsett redigering",
+    "description": "Continue where you left off and keep every cinematic cut polished for future exports."
+  },
+  "export": {
+    "title": "Eksporter ditt mesterverk",
+    "quality": "Kvalitet",
+    "format": "Format",
+    "exportNow": "Eksporter MP4",
+    "status": "Renderstatus",
+    "description": "Select export quality and preview your final render settings before download.",
+    "statusDescription": "Your video will export to a polished MP4 preview with premium color profiles and motion-safe playback.",
+    "optimal": "Optimal"
+  },
+  "footer": {
+    "description": "Kino-grade redigeringsverktøy i nettleseren.",
+    "copyright": "© 2026 Jokky White Editing. Alle rettigheter reservert."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "headline": "404",
+    "description": "The cinematic canvas you requested does not exist. Navigate back to the editor and continue creating.",
+    "back": "Back to home"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "brand": "Jokky White Editing",
+  "shortBrand": "JWE",
+  "slogan": "Create Without Limits",
+  "nav": {
+    "home": "ホーム",
+    "dashboard": "ダッシュボード",
+    "editor": "エディター",
+    "pricing": "料金",
+    "projects": "プロジェクト",
+    "settings": "設定",
+    "login": "ログイン"
+  },
+  "landing": {
+    "headline": "数秒でシネマティックな動画を作成",
+    "subtitle": "AI搭載のブラウザ編集でプレミアムなモーション体験を。",
+    "start": "編集を始める",
+    "demo": "デモを見る",
+    "features": "機能",
+    "testimonial": "クリエイティブスタジオや映像作家に支持されています。",
+    "pricingIntro": "野心的なクリエイターのためのシンプルなプラン。",
+    "aiTools": "AIツール",
+    "heroBadge": "Premium editing — AI ready",
+    "aiToolsTitle": "AI tools for every stage of your edit",
+    "aiToolsSubtitle": "Build fast and refined videos with scene-aware automation, audio polishing, and cinematic finishing touches.",
+    "showcaseProduct": "JWE TimeCraft",
+    "showcaseCaption": "Cinematic preview + smart trim",
+    "showcaseTitle": "Premium motion showcase",
+    "showcaseCopy": "A future-ready editing experience with glassmorphism panels, cinematic micro-interactions, and polished UI motion.",
+    "workflowTitle": "Everything you need for cinematic publishing",
+    "workflowCopy": "From creative motion edits to export-ready video, Jokky White Editing brings premium tooling to the browser.",
+    "trustedTitle": "Trusted workflow",
+    "trustedCopy": "Fast clip trimming, smooth repositioning, and refined storyboarding.",
+    "cloudTitle": "Cloud-ready architecture",
+    "cloudCopy": "Save progress locally, access advanced cloud sync ideas for future releases."
+  },
+  "editor": {
+    "upload": "ビデオをアップロード",
+    "dragDrop": "ドラッグ＆ドロップでアップロード",
+    "trim": "トリミング",
+    "split": "分割",
+    "duplicate": "複製",
+    "transitions": "トランジション",
+    "filters": "フィルター",
+    "text": "テキスト",
+    "audio": "オーディオ",
+    "export": "書き出し",
+    "timeline": "タイムライン",
+    "settings": "設定",
+    "preview": "プレビュー",
+    "media": "メディア",
+    "clips": "クリップ",
+    "duration": "再生時間",
+    "quality": "品質",
+    "autoSave": "自動保存オン"
+  },
+  "dashboard": {
+    "recent": "最近のプロジェクト",
+    "create": "新しいプロジェクトを作成",
+    "tools": "AIツール",
+    "history": "書き出し履歴",
+    "storage": "ストレージ使用量",
+    "workspaceTitle": "Your Jokky White Editing workspace",
+    "workspaceCopy": "Launch your next cinematic edit from a dashboard that feels sleek, calm, and built for creative velocity.",
+    "aiWorkflow": "AI workflow center",
+    "aiWorkflowCopy": "Modern AI support for premium storytelling.",
+    "exportHistoryTitle": "Export history"
+  },
+  "pricing": {
+    "starter": "スターター",
+    "pro": "プロ",
+    "agency": "エージェンシー",
+    "monthly": "月額",
+    "pricingIntro": "Simple plans for ambitious creators.",
+    "choosePlan": "Choose {{tier}}"
+  },
+  "auth": {
+    "signin": "ログイン",
+    "signup": "サインアップ",
+    "forgot": "パスワードをお忘れですか？",
+    "social": "で続行",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "createAccountCopy": "Create your Jokky White Editing account to save projects and access AI tools.",
+    "signinCopy": "Sign in to continue editing stunning cinematic videos in the browser.",
+    "continueGoogle": "Continue with Google",
+    "continueApple": "Continue with Apple",
+    "continueMicrosoft": "Continue with Microsoft"
+  },
+  "settings": {
+    "title": "ワークスペース設定",
+    "language": "言語",
+    "theme": "テーマ",
+    "notifications": "通知",
+    "languageChanged": "言語が {{language}} に変更されました"
+  },
+  "projects": {
+    "saved": "保存されたプロジェクト",
+    "empty": "まだ保存されたプロジェクトはありません。",
+    "continue": "編集を続行",
+    "description": "Continue where you left off and keep every cinematic cut polished for future exports."
+  },
+  "export": {
+    "title": "マスターピースをエクスポート",
+    "quality": "品質",
+    "format": "形式",
+    "exportNow": "MP4をエクスポート",
+    "status": "レンダーステータス",
+    "description": "Select export quality and preview your final render settings before download.",
+    "statusDescription": "Your video will export to a polished MP4 preview with premium color profiles and motion-safe playback.",
+    "optimal": "Optimal"
+  },
+  "footer": {
+    "description": "ブラウザで実現するシネマティック編集ツール。",
+    "copyright": "© 2026 Jokky White Editing。全著作権所有。"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "headline": "404",
+    "description": "The cinematic canvas you requested does not exist. Navigate back to the editor and continue creating.",
+    "back": "Back to home"
+  }
+}
